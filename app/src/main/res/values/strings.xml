@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">坏习惯记录本</string>
+    <string name="hello_world">你好，这个美好的世界</string>
+    <string name="action_settings">设置</string>
+    <string name="crime_title_hint">请输入坏习惯的标题</string>
+    <string name="crime_title_label">题目</string>
+    <string name="crime_details_label">日期</string>
+    <string name="crime_solved_label">解决</string>
+</resources>
